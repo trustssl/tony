@@ -1,0 +1,94 @@
+/* ------------------------------------------------------- */
+/* Global CSS
+/* ------------------------------------------------------- */
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.content {
+	padding: 50px 0;
+	background-color: #fff;
+}
+
+.content-alt {
+	background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	/* font-family: 'Montserrat', sans-serif; */
+}
+
+
+/* ------------------------------------------------------- */
+/* Header
+/* ------------------------------------------------------- */
+#header {
+	padding: 10px 0;
+}
+
+#header img {
+	width: 400px;
+}
+
+
+
+
+/* ------------------------------------------------------- */
+/* Home
+/* ------------------------------------------------------- */
+.step_form {
+	background-color: #fff;
+	padding: 50px;
+	border: 1px solid lightgray;
+}
+#home h2 {
+	color: #0064AA;
+	font-weight: 600;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+#home fieldset {
+	margin-bottom: 10px;
+}
+
+#home legend {
+	font-size: 16px;
+	font-weight: 600;
+	margin-bottom: 5px;
+}
+
+.custom-radio, .custom-radio label {
+	cursor: pointer;
+	font-size: 15px;
+}
+
+.myBtn {
+    padding: 10px 35px;
+    font-size: 25px;
+    font-weight: 600;
+    outline: none;
+    color: #fff;
+    background-color: rgb(227, 69, 69);
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 5px #ad3434;
+    color: #fff;
+    outline: none;
+    white-space: inherit;
+}
+
+.myBtn:hover {
+    background-color: green;
+    box-shadow: 0 5px #0e480e;
+    color: #fff;
+}
+
+.myBtn:focus {
+	outline: none;
+}
+
+
+/* ------------------------------------------------------- */
+/* 
+/* ------------------------------------------------------- */
